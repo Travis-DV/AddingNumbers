@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "addingnumbers", "addingnumbers\addingnumbers.csproj", "{AABBD2F6-1868-4484-AB78-C2C57AA990EE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddingNumbers", "addingnumbers\AddingNumbers.csproj", "{AABBD2F6-1868-4484-AB78-C2C57AA990EE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
