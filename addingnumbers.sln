@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "addingnumbers", "addingnumbers\addingnumbers.csproj", "{AABBD2F6-1868-4484-AB78-C2C57AA990EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AABBD2F6-1868-4484-AB78-C2C57AA990EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AABBD2F6-1868-4484-AB78-C2C57AA990EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AABBD2F6-1868-4484-AB78-C2C57AA990EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AABBD2F6-1868-4484-AB78-C2C57AA990EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB38DDF5-E330-470C-B4DA-2B45808DB4A0}
+	EndGlobalSection
+EndGlobal
